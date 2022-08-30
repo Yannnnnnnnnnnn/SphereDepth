@@ -1,3 +1,3 @@
-# SpereDepth
+# SphereDepth
 
 comming soon.
